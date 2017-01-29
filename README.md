@@ -1,3 +1,5 @@
 # GRAU-LI (Lògica a la Informàtica)
 
-QT 2015-2016 - FIB UPC
+**LI - Q1 2015-2016 - FIB UPC**
+
+Sessions de laboratori
