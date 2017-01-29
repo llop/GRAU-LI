@@ -2,4 +2,7 @@
 
 **LI - Q1 2015-2016 - FIB UPC**
 
-Sessions de laboratori
+Sessions de laboratori + pràctica
+
+* MiniSAT - SAT solver
+* Prolog problems
